@@ -1,0 +1,6 @@
+{
+  "name": "Jurassic World: Educational & Park Guide | ศูนย์วิจัยและคู่มือนำเที่ยว InGen",
+  "description": "ศูนย์วิจัยพันธุศาสตร์และคู่มือนำเที่ยวอย่างเป็นทางการของจูราสสิค เวิลด์ โดย InGen ระบบแผนที่อินเทอร์แอคทีฟ ฐานข้อมูลสิ่งมีชีวิตยุคดึกดำบรรพ์ และห้องปฏิบัติการพันธุศาสตร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
